@@ -39,7 +39,7 @@ collections:
   posts:
     title: blog # Needed for Siteleaf
     output: true
-    description: "My thoughts live here :)" # The post list page content
+    description: "my thoughts live here :)" # The post list page content
 
 # 6. Jekyll collections settings
 defaults:
