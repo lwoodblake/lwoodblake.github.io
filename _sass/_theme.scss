@@ -36,7 +36,7 @@ body {
 
 .header {
   @include flex(0, 0, auto);
-  background: #fff;
+  background: #F9F6EE;
 }
 
 .logo {
@@ -171,4 +171,9 @@ video {
     white-space: pre;
     overflow-x: scroll;
   }
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Sen:wght@400..800&display=swap');
+body,h1, h2, h3, h4, h5, h6 {
+  font-family: 'Sen', sans-serif !important;
 }

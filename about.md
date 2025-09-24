@@ -1,8 +1,9 @@
 ---
 title: about
 ---
+Hi :) 
 
-## Social links
+## social links
 
 🦋[Bluesky](https://bsky.app/profile/lwoodblake.bsky.social)  
 🤮[L*nkedIn]( https://www.linkedin.com/in/lwoodblake)  
